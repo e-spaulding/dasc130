@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: DASC130
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
+tagline: DASC130 - Introduction to Data Science
+description: Course website for DASC130 - Introduction to Data Science at the University of St. Thomas.
+author: Elizabeth Hoefer
 baseurl: '/dasc130' # the subpath of your site, e.g. /blog
 url: 'https://e-spaulding.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "staff.md", "schedule.md", "calendar.md", "announcements.md"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.10.1
@@ -28,10 +28,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  Canvas:
+    - 'https://stthomas.instructure.com/courses/82636'
+  Ed:
+    - 'https://edstem.org/us/courses/80618/discussion'
 footer_content:
 
 # Collections for website data

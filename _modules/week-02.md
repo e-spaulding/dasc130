@@ -1,23 +1,15 @@
 ---
-title: Basic Data Structures
+title: Week 2 - Causality and Experiments
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Sep 9 (Tue)
+: Cause and Effect
+  : **Reading**{: .label .label-green}[Ch. 2 (2.1-2.5)](https://inferentialthinking.com/chapters/02/causality-and-experiments.html)
+: [Demo](#)
+  : **Homework**{: .label .label-purple}[Homework 1](https://edstem.org/us/courses/80618/lessons/142883/slides/811799)
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Sep 11 (Thu)
+: Cause and Effect, ctd.
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
-
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Sep 13 (Sat)
+: **HW1 DUE**{: .label .label-red } *[Homework 1](https://edstem.org/us/courses/80618/lessons/142883/slides/811799) due on Ed at 11:59pm.*
