@@ -8,8 +8,6 @@ permalink: /:path/
 
 # DASC130: Introduction to Data Science
 
-Welcome!
-
 ## Schedule
 
 {% for module in site.modules %}
