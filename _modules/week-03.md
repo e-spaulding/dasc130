@@ -16,3 +16,5 @@ Sep 18 (Thu)
 Sep 12 (Fri)
 : *No homework due this week. The discussion worksheets will count as a homework grade.*
   : **Review**{: .label .label-blue}[Exam 1 Review](#)
+:  
+  : **Homework**{: .label .label-purple}[Homework 2](#)

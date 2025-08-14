@@ -13,4 +13,3 @@ Sep 11 (Thu)
 
 Sep 12 (Fri)
 : **HW1 DUE**{: .label .label-red }*[Homework 1](https://edstem.org/us/courses/80618/lessons/142883/slides/811799) due on Ed at 11:59pm.*
-  : **Homework**{: .label .label-purple}[Homework 2](#)
