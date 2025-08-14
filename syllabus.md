@@ -42,22 +42,22 @@ Below is a tentative schedule of topics with the chapters from our __free__ onli
 
 Students are expected to complete each reading _before_ class (the homepage will provide a link to the exact chapters/subchapters for each class). Topics are subject to be slightly adjusted to match the pace of the class in the first few weeks, but I will give ample warning before doing so!
 
-Week 0 | What is Data Science?                                         | IT Ch 1
-Week 1 | Causality and Experiments                                     | IT Ch 2-3
-Week 2 | Data Ethics and the Limits of Data                            | MDSR Ch 8; Misc sources
-Week 3 | _Exam 1_                                                      |
-Week 4 | Data Types, Sequences, and Tables                             | IT Ch 4-6
-Week 5 | Table Manipulation and Vizualization                          | IT Ch 6-7
-Week 6 | Function Definition and Table Manipulation                    | IT Ch 8
-Week 7 | __Midterm__ (_Exam 2_)                                        |
-Week 8 | Randomness (Conditional statements, iteration, simulation)    | IT Ch 9
-Week 9 | Sampling and Empirical Distributions                          | IT Ch 10
-Week 10 | Estimation (Percentiles and CIs)                             | IT Ch 13
-Week 11 | _Exam 3_                                                     |
-Week 12 | Pandas I (Basics)                                            | LDS Ch 6
-Week 13 | Pandas II (Data Wrangling and Tidy Data)                     | LDS Ch 9
-Week 14 | Pandas II/catchup/special topics                             | 
-Week 15 | __Final__ (_Exam 4_)                                         |
+Week 1 | What is Data Science?                                         | IT Ch 1
+Week 2 | Causality and Experiments                                     | IT Ch 2-3
+Week 3 | Data Ethics and the Limits of Data                            | MDSR Ch 8; Misc sources
+Week 4 | _Exam 1_                                                      |
+Week 5 | Data Types, Sequences, and Tables                             | IT Ch 4-6
+Week 6 | Table Manipulation and Vizualization                          | IT Ch 6-7
+Week 7 | Function Definition and Table Manipulation                    | IT Ch 8
+Week 8 | __Midterm__ (_Exam 2_)                                        |
+Week 9 | Randomness (Conditional statements, iteration, simulation)    | IT Ch 9
+Week 10 | Sampling and Empirical Distributions                          | IT Ch 10
+Week 11 | Estimation (Percentiles and CIs)                             | IT Ch 13
+Week 12 | _Exam 3_                                                     |
+Week 13 | Pandas I (Basics)                                            | LDS Ch 6
+Week 14 | Pandas II (Data Wrangling and Tidy Data)                     | LDS Ch 9
+Week 15 | Pandas II/catchup/special topics                             | 
+Week 16 | __Final__ (_Exam 4_)                                         |
 
 ### Grading breakdown
 
