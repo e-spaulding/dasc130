@@ -4,7 +4,7 @@ title: Week 1 - Introduction
 
 Sep 4 (Thu)
 : What is Data Science?
-  : **Reading**{: .label .label-green } [Syllabus](/syllabus), [Ch. 1 (1.1-1.3)](https://inferentialthinking.com/chapters/01/what-is-data-science.html)
+  : **Reading**{: .label .label-green } [Syllabus](/dasc130/syllabus), [Ch. 1 (1.1-1.3)](https://inferentialthinking.com/chapters/01/what-is-data-science.html)
 : [Demo](#) • [Slides](#)
   : **Homework**{: .label .label-purple } [Homework 0](#)
 
