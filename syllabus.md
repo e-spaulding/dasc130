@@ -112,9 +112,7 @@ Once you have used up all of your late hours, I will not accept additional late 
 
 The __homework__ in the course will best serve you if you make an honest effort by yourself before asking for help. After making your own honest effort, I encourage you to collaborate with other students, but please write your own solution. This means no copy-and-pasting; if I were to ask you about how you came to a solution for each question, you should be able to tell me (1) what you found difficult about the question and (2) how you were able to resolve this difficulty, and who helped you. What made it finally click? 
 
-To that end, I disallow and strongly discourage, for your intellectual and professional development, the usage of LLMs (ChatGPT, Claude, Grok, Gemini, etc.) or other means of attaining solutions without thinking or interacting with humans (e.g. Chegg). If it is grossly obvious that you have used an LLM to generate a solution for you, I may pursue disciplinary action through the Dean's Office. I understand the allure of LLMs, and I feel it in my own work too. But I ask you to avoid them for this class for the sake of learning.
-
-The __exams__ in the course are straightforwardly purely your own work. Unless otherwise stated, they are closed-note paper exams and no collaboration or device usage is allowed. See St. Thomas's full [academic integrity policy](https://www.stthomas.edu/about/departments/general-counsel/policy-pdfs/undergraduate-student-academic-integrity-policy.pdf#_ga=2.24866298.1307296101.1610338739-1268650868.1555465084).
+To that end, I disallow the usage of LLMs (ChatGPT, Claude, Grok, Gemini, etc.) or other means of attaining solutions without thinking or interacting with humans (e.g. Chegg). If it is grossly obvious that you have used an LLM to generate a solution for you, I may pursue disciplinary action through the Dean's Office. See St. Thomas's full [academic integrity policy](https://www.stthomas.edu/about/departments/general-counsel/policy-pdfs/undergraduate-student-academic-integrity-policy.pdf#_ga=2.24866298.1307296101.1610338739-1268650868.1555465084).
 
 #### Zoom etiquette
 {: .no_toc }
@@ -123,7 +121,7 @@ I am not planning on holding any classes over Zoom, but sometimes life happens (
 
 ### Stress and support
 
-Your well-being is more important than this class and more important than your grades. Maintaining a healthy lifestyle by eating well, avoiding drugs and alcohol, taking enough time to relax and reflect, and endeavoring to live your values will enable you to feel satisfied with your work at school. However, I recognize this is easier said than done, _especially_ if you feel alone. I hope this class can be a small part of your community, and I encourage you to exchange contact information with your classmates. Also, please let me know (early!) if you are struggling. St. Thomas also has myriad resources (below).
+Your well-being is more important than this class and more important than your grades. It is my hope that this class allows you to prioritize maintaining a healthy lifestyle (i.e. eating well, avoiding drugs and alcohol, taking enough time to relax and reflect, and endeavoring to live your values) before schoolwork. Of course, none of that is easy when we face circumstances out of our control, and especially if we face them alone. So, I hope this class can be a small part of your community, and I encourage you to exchange contact information with your classmates. Also, please let me know (early!) if you are struggling. St. Thomas also has myriad resources (below).
 
 #### Health and Counseling
 {: .no_toc }
