@@ -74,7 +74,7 @@ __Attendance/Participation:__ When calculating the attendance/participation grad
 
 __Homework:__ Homework is typically a combination of conceptual questions and coding exercises in Python. They will be released on Ed on Friday 3pm and due the next Friday at 11:59pm. There may be some exceptions, e.g. the ethics module, in which we skip a weekly homework and substitute a graded in-class discussion (which will be counted just like the homework, as a part of the 30% of the final grade allocated to homework). Your lowest homework score will be dropped.
 
-__Exams:__ The exams are closed-book, closed-note paper exams with no collaboration or device usage allowed. Exams may be scaled depending on class performance (only in a way that would increase your grade, never to decrease it).
+__Exams:__ The exams are closed-book, closed-note paper exams with no collaboration or device usage allowed. Exams may be scaled depending on class performance (only in a way that would increase your grade, never to decrease it). Exam 1 and Exam 3 are smaller and will only include content from the last few topics after the previous exam (i.e. they are not "cumulative"). Exam 2 (a.k.a. the midterm) is a cumulative exam in that it includes topics from Exam 1 and after Exam 1. Same with Exam 4 (a.k.a. the final) - it will include topics from the entire course.
 
 Final letter grades will approximately correspond to:
 
@@ -110,14 +110,9 @@ Once you have used up all of your late hours, I will not accept additional late 
 
 #### Plagiarism and collaboration
 
-The __homework__ in the course will best serve you if you make an honest effort by yourself before asking for help. After making your own honest effort, I encourage you to collaborate with other students, but please write your own solution. This means no copy-and-pasting; if I were to ask you about how you came to a solution for each question, you should be able to tell me (1) what you found difficult about the question and (2) how you were able to resolve this difficulty, and who helped you. What made it finally click? 
+The homework in the course will best serve you if you make an honest effort by yourself before asking for help. After making your own honest effort, I encourage you to collaborate with other students, but please write your own solution. This means no copy-and-pasting; if I were to ask you about how you came to a solution for each question, you should be able to tell me (1) what you found difficult about the question and (2) how you were able to resolve this difficulty, and who helped you. What made it finally click? 
 
 To that end, I disallow the usage of LLMs (ChatGPT, Claude, Grok, Gemini, etc.) or other means of attaining solutions without thinking or interacting with humans (e.g. Chegg). If it is grossly obvious that you have used an LLM to generate a solution for you, I may pursue disciplinary action through the Dean's Office. See St. Thomas's full [academic integrity policy](https://www.stthomas.edu/about/departments/general-counsel/policy-pdfs/undergraduate-student-academic-integrity-policy.pdf#_ga=2.24866298.1307296101.1610338739-1268650868.1555465084).
-
-#### Zoom etiquette
-{: .no_toc }
-
-I am not planning on holding any classes over Zoom, but sometimes life happens (I get sick and am contagious past when I feel up to teaching, family emergency out of state, etc.). In the event that I hold a class over Zoom, I ask the following: (1) Mute yourself when not speaking. (2) If you have a question or comment, feel free to either interrupt me by speaking, or leave questions in the chat. (3) If you think you can, feel free to answer other students' questions in the chat too. (4) Please turn off your video if you're doing something else (and I hope you're not!). (5) On that note, it's nice to have at least a handful of student videos on while I teach, but I won't require it. If you don't want to turn on your video for whatever reason, you can make it easier for me by either (a) turning it on temporarily when you speak, or at the beginning of the call or (b) sending a greeting in the chat at the beginning of the call or saying hi out loud before the period starts to communicate your presence. Not a requirement, just something nice you can do for me and others on the call.
 
 ### Stress and support
 
