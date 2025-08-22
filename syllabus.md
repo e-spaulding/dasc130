@@ -72,7 +72,7 @@ Exam 4 (Final)           | Fri, Dec 19 10:30am-12:30pm    | 25%
 
 __Attendance/Participation:__ When calculating the attendance/participation grade, I will consider (1) attendance in class, (2) participation in class, and (3) participation in Ed discussions. Attendance in >90% of our classes (= 26/28 of our class sessions) will result in an automatic 100% for this category. If you miss more classes than that, I will consider in-person participation and participation in the Ed forum (both asking questions and answering classmate questions) as well (i.e. it is possible to miss more than 2 classes and still get full attendance if you participate in-person and/or on Ed). Please see the attendance policy below for extenuating circumstances (illness, emergencies, university-sponsored activities).
 
-__Homework:__ Homework is typically a combination of conceptual questions and coding exercises in Python. They will be released on Ed on Friday 3pm and due the next Friday at 11:59pm. There may be some exceptions, e.g. the ethics module, in which we skip a weekly homework and substitute a graded in-class discussion (which will be counted just like the homework, as a part of the 30% of the final grade allocated to homework). Your lowest homework score will be dropped.
+__Homework:__ Homework is typically a combination of conceptual questions and coding exercises in Python. They will be released on Ed on Friday 3pm and due the next Saturday at 11:59pm. Your lowest homework score will be dropped.
 
 __Exams:__ The exams are closed-book, closed-note paper exams with no collaboration or device usage allowed. Exams may be scaled depending on class performance (only in a way that would increase your grade, never to decrease it). Exam 1 and Exam 3 are smaller and will only include content from the last few topics after the previous exam (i.e. they are not "cumulative"). Exam 2 (a.k.a. the midterm) is a cumulative exam in that it includes topics from Exam 1 and after Exam 1. Same with Exam 4 (a.k.a. the final) - it will include topics from the entire course.
 
@@ -106,7 +106,7 @@ You each have a total pool of 72 late hours of grace period for homework assignm
 
 * Accommodations made through the Disability Resources will guide late work policies for those who have specific documented needs. See below for more info.
 
-Once you have used up all of your late hours, I will not accept additional late assignments. The secret word is hairball. Please note that Ed may still allow you to submit, but if you have used all 72 hours, it will not be graded.
+Once you have used up all of your late hours, I will not accept additional late assignments. Please note that Ed may still allow you to submit, but if you have used all 72 hours, it will not be graded.
 
 #### Plagiarism and collaboration
 
