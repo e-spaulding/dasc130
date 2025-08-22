@@ -7,8 +7,8 @@ Sep 23 (Tue)
    : **Review**{: .label .label-blue}[Exam 1 Review](#)
 
 Sep 25 (Thu)
-: Class is cancelled — I'm traveling! Enjoy a breather after your exam.
+: Class is cancelled — I'm traveling! Enjoy a breather after your exam and continue working on Homework 2.
 
 Sep 27 (Sat)
-: *No homework due this week because of the exam. Continue working on Homework 2!*
-  : **Homework**{: .label .label-purple}[Homework 2](#)
+: **HW2 DUE**{: .label .label-red }*[Homework 2](#) due on Ed at 11:59pm.*
+  : **Homework**{: .label .label-purple}[Homework 3](#)
