@@ -9,7 +9,7 @@ description: >-
 # **Detailed Python Reference Sheet**
 
 {:.no_toc}
-Created by Nishant Kheterpal and Jessica Hu. Contributions by Jonathan Ferrari, Updated and Maintained by Edwin Vargas and Bing Concepcion. Updated for DASC130 by me, Elizabeth Hoefer.
+Created by Nishant Kheterpal and Jessica Hu. Contributions by Jonathan Ferrari, Edwin Vargas, and Bing Concepcion. Updated for DASC130 by me, Elizabeth Hoefer.
 
 ## Table of Contents
 {: .no_toc .text-delta }
@@ -104,23 +104,3 @@ These are functions in the `datascience` library that are used in the course tha
 | **Name** | **Description** | **Input** | **Output** |
 | `sample_proportions(sample_size, model_proportions)` | `sample_size` should be an integer, `model_proportions` an array of probabilities that sum up to 1. The function samples `sample_size` objects from the distribution specified by `model_proportions`. It returns an array with the same size as `model_proportions`. Each item in the array corresponds to the proportion of times it was sampled out of the `sample_size` times. ([Ch 11.1](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html)) | 1. **int**: sample size <br> 2. **array**: an array of proportions that should sum to 1 | **array**: each item corresponds to the proportion of times that corresponding item was sampled from `model_proportions` in `sample_size` draws, should sum to 1 |
 | `minimize(function)` | Returns an array of values such that if each value in the array was passed into `function` as arguments, it would minimize the output value of `function`. ([Ch 15.4](https://www.inferentialthinking.com/chapters/15/4/Least_Squares_Regression)) | **function**: name of a function that will be minimized | **array**: An array in which each element corresponds to an argument that minimizes the output of the function. Values in the array are listed based on the order they are passed into the function; the first element in the array is also going to be the first value passed into the function. |
-
-## JupyterHub Keyboard Shortcuts
-
-First, to enter shortcut mode/exit editing mode, press `Esc`. This will then enable you to use any of the below keyboard shortcuts.
-
-| Operation                                | Keys                        |
-| ---------------------------------------- | --------------------------- |
-| To enter shortcut mode/exit editing mode | `Esc`                       |
-| Enter edit mode                          | `Enter`                     |
-| Insert cell above                        | `a`                         |
-| Insert cell below                        | `b`                         |
-| Delete selected cell                     | `d` + `d` (Press `d` twice) |
-| Convert cell to Markdown cell            | `m`                         |
-| Convert cell to Code cell                | `y`                         |
-| Undo cell operation                      | `z`                         |
-| Copy cell                                | `c`                         |
-| Paste cell                               | `v`                         |
-| Paste cell above                         | `Shift` + `v`               |
-| Redo                                     | `Ctrl` + `Shift` + `z`      |
-| Undo                                     | `Ctrl` + `z`                |
